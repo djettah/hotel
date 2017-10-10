@@ -5,6 +5,7 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_model>none</license_model>
         <logo/>
         <menu display_value="Hotel">c0ba84614f962200c17782818110c791</menu>
         <name>Hotel</name>
@@ -22,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-08 22:04:23</sys_created_on>
         <sys_id>a8f395beebc522004fcde08a5206fe2e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-10-05 23:29:03</sys_updated_on>
+        <sys_updated_on>2017-10-10 13:49:28</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>0</version>
+        <version>0.0.1</version>
     </sys_app>
 </record_update>

@@ -17,17 +17,17 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="User" name="sys_user">ea1383114f122200c17782818110c7b6</super_class>
+        <super_class display_value="User" name="sys_user">701aaa32c13003000bea5c2509c39579</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-05 23:39:39</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>cde594e94fd62200c17782818110c7c6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Guest</sys_name>
         <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
         <sys_update_name>sys_db_object_cde594e94fd62200c17782818110c7c6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
